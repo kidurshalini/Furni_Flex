@@ -1,0 +1,13 @@
+.section{
+    width: 100%;
+    float: left;
+    background-image: url(../images/furni1.jpg);
+    background-color: rgba(5, 0, 63, 0.5); /* Light blue color with 50% opacity */
+    background-blend-mode: darken; /* Optional: Blend mode for background */
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 70px;
+    margin-bottom: 20px;
+}
+
